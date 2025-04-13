@@ -67,6 +67,7 @@ body {
 /* secao de about */
 
 .about-section {
+  width:95vw;
   padding: 30px 30px;
   background-color: #ffffff;
   margin-top: 30px;
